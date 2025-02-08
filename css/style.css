@@ -1,0 +1,26 @@
+ody {
+    font-family: poppins;
+    background-color: rgb(244, 191, 239);
+   box-sizing: border-box; 
+}
+
+.header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.greetings {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content {
+    width: 50%;
+    height: 100vh;
+    border: 2px #f7e4f5 solid;
+    background-color: #f7e4f5;
+    padding: 40px;
+    justify-self: center;
+    box-shadow: 1px 10px 20px 10px #923363;
+}
