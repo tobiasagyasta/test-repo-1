@@ -6,6 +6,8 @@ Halo saya tobias (Fitur baru)
 
 Fitur baru
 
+Fitur baru, diupdate di github bukan di local
+
 ░░ ░░ ░░░░ ▓▓██████████████████████████  
 ░░░░██▓▓▓▓ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░████  
 ░░▓▓░░░░▒▒████▓▓ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██▓▓  
